@@ -1,0 +1,35 @@
+body {
+  width: 250px;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+#toggle-section {
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+label {
+  margin-right: 10px;
+}
+
+input[type="checkbox"] {
+  transform: scale(1.5);
+}
+
+#select-section {
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#select-button {
+  padding: 10px 20px;
+}
