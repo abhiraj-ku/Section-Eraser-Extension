@@ -2,6 +2,8 @@
 
 The Section Chrome Extension is a lightweight extension that allows users to easily remove elements from the active tab in their Chrome browser. With just a few clicks, unwanted elements on a webpage can be eliminated, providing a more streamlined browsing experience.
 
+![section-remover-img](https://github.com/abhiraj-ku/Section-Eraser-Extension/assets/113116498/6bbb9846-9caa-483e-b85e-f497d479c38f)
+
 ## Features
 
 - Click-to-remove: Simply click the extension's button and then click on any element within the active tab to remove it instantly.
